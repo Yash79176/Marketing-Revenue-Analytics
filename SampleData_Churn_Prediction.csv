@@ -1,0 +1,5 @@
+customer_id,total_orders,avg_order_value,last_order_days_ago,total_spent,churned
+C001,5,400,30,2000,0
+C002,8,600,90,4800,1
+C003,12,750,15,9000,0
+C004,3,300,120,900,1

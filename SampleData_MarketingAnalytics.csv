@@ -1,0 +1,9 @@
+user_id,event_type,event_time,product_id,revenue
+101,view,3/1/2024,P1001,NULL
+102,add_to_cart,3/2/2024,P1002,NULL
+101,purchase,3/2/2024,P1001,1500
+103,view,3/3/2024,P1003,NULL
+104,purchase,3/3/2024,P1004,2000
+105,add_to_cart,3/4/2024,P1005,NULL
+101,add_to_cart,3/5/2024,P1001,NULL
+101,purchase,3/6/2024,P1001,1200
